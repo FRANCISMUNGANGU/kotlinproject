@@ -1,0 +1,26 @@
+FRIDAY INDEPENDENT PROJECT. (24/03/2023)
+
+KOTLIN CODE CHALLENGE PACK
+
+Research and Review Lecture concepts
+
+FROM THIS LIST OF 8 , SELECT 4 Questions TO ATTEMPT , submit solution to
+ Github and send repo link to josephbill00@gmail.com
+1:Write a function that takes in two integers and returns the sum of all
+the numbers between them (inclusive). For example, if the function is called with 3
+and 8, it should return 33 (3 + 4 + 5 + 6 + 7 + 8 = 33).:::::DONE
+2:Write a function that takes in a list of integers and returns the sum of all
+the even numbers in the list.:::DONE
+3:Write a function that takes in a string and returns true if the string is a
+palindrome (i.e., reads the same backwards as forwards), and false otherwise.
+4:Write a function that takes in a list of strings and returns a list of all
+the strings that contain the letter "a".
+5:Write a function that takes in a list of integers and returns a new list with
+ all the duplicates removed.
+6:Write a function that takes in two lists of integers and returns a new list
+with all the common elements between the two lists.
+7:Write a function that takes in a list of strings and returns the longest
+string in the list.
+8:Write a function that takes in a list of integers and returns the second
+largest number in the list::::Done
+
