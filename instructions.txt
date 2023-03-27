@@ -12,7 +12,7 @@ and 8, it should return 33 (3 + 4 + 5 + 6 + 7 + 8 = 33).:::::DONE
 2:Write a function that takes in a list of integers and returns the sum of all
 the even numbers in the list.:::DONE
 3:Write a function that takes in a string and returns true if the string is a
-palindrome (i.e., reads the same backwards as forwards), and false otherwise.
+palindrome (i.e., reads the same backwards as forwards), and false otherwise.::::DONE
 4:Write a function that takes in a list of strings and returns a list of all
 the strings that contain the letter "a".
 5:Write a function that takes in a list of integers and returns a new list with
